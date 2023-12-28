@@ -73,6 +73,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vishawjeetsingh0/Vishawjeetsingh0/output/snake.svg" alt="Snake animation" />
 
 ###
